@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "'Monaspace Argon', 'Monaspace Neon', 'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.wordWrap": "on",
+    "liveServer.settings.CustomBrowser": "chrome"
+}
